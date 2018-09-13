@@ -1,5 +1,5 @@
 _repo: La-solitude_51214
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Marmier, Xavier
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1892
     gutenberg_agent_id: '46303'
     url: http://www.gutenberg.org/2009/agents/46303
+covers:
+- cover_type: archival
+  image_path: 51214-h/images/cover.jpg
 creator:
   author:
     agent_name: Zimmermann, Johann Georg
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '46302'
     url: http://www.gutenberg.org/2009/agents/46302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51214#La-solitude
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text

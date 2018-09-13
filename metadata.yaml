@@ -1,0 +1,39 @@
+_repo: La-solitude_51214
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marmier, Xavier
+    aliases:
+    - Marmier, X. (Xavier)
+    - Marmier, Jean-Marie Xavier
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '46303'
+    url: http://www.gutenberg.org/2009/agents/46303
+creator:
+  author:
+    agent_name: Zimmermann, Johann Georg
+    aliases:
+    - Zimmermann, Johann Georg, Ritter von
+    - Zimmerman, Gian Giorgio
+    - Zimmerman, John George
+    birthdate: 1728
+    deathdate: 1795
+    gutenberg_agent_id: '46302'
+    url: http://www.gutenberg.org/2009/agents/46302
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51214'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Solitude'
+- !lcc 'BJ'
+- GITenberg
+title: La solitude
+url: http://www.gutenberg.org/ebooks/51214
